@@ -4,4 +4,4 @@ scikit-learn
 matplotlib
 requests
 tqdm
-torch==2.10.0
+torch

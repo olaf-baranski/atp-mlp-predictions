@@ -1,6 +1,6 @@
 import argparse
 from pathlib import Path
-from typing import Optional
+from typing import Optional, List
 
 import requests
 from tqdm import tqdm
@@ -40,7 +40,7 @@ def download_matches(
     out_dir: Path,
     owner: str,
     repo: str,
-    branches_to_try: list[str],
+    branches_to_try: List[str],
     force: bool = False,
 ) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
