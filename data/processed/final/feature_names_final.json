@@ -1,0 +1,21 @@
+[
+  "rank_diff",
+  "rank_points_diff",
+  "age_diff",
+  "height_diff",
+  "seed_diff",
+  "best_of",
+  "elo_diff",
+  "surface_elo_diff",
+  "surface_Carpet",
+  "surface_Clay",
+  "surface_Grass",
+  "surface_Hard",
+  "surface_Unknown",
+  "tourney_level_A",
+  "tourney_level_D",
+  "tourney_level_F",
+  "tourney_level_G",
+  "tourney_level_M",
+  "tourney_level_O"
+]

@@ -257,7 +257,7 @@ def fit_preprocessor(train_df: pd.DataFrame, use_elo: bool, elo_mode: str = "bot
     categorical_pipe = Pipeline(
         steps=[
             ("imputer", SimpleImputer(strategy="most_frequent")),
-            ("onehot", OneHotEncoder(handle_unknown="ignore", sparse=False)),
+            ("onehot", OneHotEncoder(handle_unknown="ignore", sparse_output=False)),
         ]
     )
 

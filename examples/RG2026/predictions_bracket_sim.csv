@@ -1,0 +1,128 @@
+A_name,B_name,A_rank,B_rank,A_rank_points,B_rank_points,A_age,B_age,A_height,B_height,A_seed,B_seed,surface,tourney_level,best_of,A_id,B_id,pA_wins,round,pred_winner,pred_winner_prob
+Jannik Sinner,Clement Tabur,1,171,14750,348,24.0,26.0,191.0,173.0,1.0,,Clay,G,5,206173.0,,0.993086,R1,Jannik Sinner,0.993086
+Jacob Fearnley,Juan Manuel Cerundolo,125,56,505,935,24.0,24.0,183.0,183.0,,,Clay,G,5,207985.0,207678.0,0.42519692,R1,Juan Manuel Cerundolo,0.5748031
+Martin Landaluce,Juan Carlos Prado Angelo,69,176,827,338,20.0,21.0,193.0,183.0,,,Clay,G,5,,,0.59564793,R1,Martin Landaluce,0.59564793
+Vit Kopriva,Corentin Moutet,66,34,856,1323,28.0,27.0,178.0,180.0,,30.0,Clay,G,5,200240.0,144895.0,0.47790688,R1,Corentin Moutet,0.5220931
+Arthur Rinderknech,Jurij Rodionov,25,158,1736,379,30.0,27.0,196.0,191.0,22.0,,Clay,G,5,126239.0,,0.74507266,R1,Arthur Rinderknech,0.74507266
+Marton Fucsovics,Matteo Berrettini,65,105,859,585,34.0,30.0,188.0,196.0,,,Clay,G,5,105916.0,,0.3038706,R1,Matteo Berrettini,0.69612944
+Ethan Quinn,Francisco Comesana,50,102,974,598,22.0,25.0,191.0,178.0,,,Clay,G,5,210319.0,207681.0,0.58939815,R1,Ethan Quinn,0.58939815
+Sebastian Ofner,Luciano Darderi,112,17,558,2260,30.0,24.0,191.0,183.0,,14.0,Clay,G,5,,209260.0,0.14470752,R1,Luciano Darderi,0.8552925
+Alexander Bublik,Jan-Lennard Struff,10,80,3320,739,28.0,36.0,196.0,193.0,9.0,,Clay,G,5,122330.0,,0.8664026,R1,Alexander Bublik,0.8664026
+Jaime Faria,Denis Shapovalov,115,39,548,1170,22.0,27.0,188.0,185.0,,,Clay,G,5,210262.0,133430.0,0.28770062,R1,Denis Shapovalov,0.71229935
+Jaume Munar,Hubert Hurkacz,41,99,1145,600,29.0,29.0,183.0,196.0,,,Clay,G,5,144719.0,128034.0,0.3774156,R1,Hubert Hurkacz,0.6225844
+Eliot Spizzirri,Frances Tiafoe,91,22,660,1905,24.0,28.0,183.0,188.0,,19.0,Clay,G,5,208118.0,126207.0,0.25249928,R1,Frances Tiafoe,0.7475007
+Tallon Griekspoor,Matteo Arnaldi,33,104,1340,586,29.0,25.0,188.0,185.0,29.0,,Clay,G,5,134868.0,208286.0,0.50809914,R1,Tallon Griekspoor,0.50809914
+Alexandre Muller,Stefanos Tsitsipas,127,79,494,740,29.0,27.0,183.0,193.0,,,Clay,G,5,124186.0,126774.0,0.21450676,R1,Stefanos Tsitsipas,0.78549325
+Raphael Collignon,Aleksandar Vukic,62,96,866,626,24.0,30.0,191.0,188.0,,,Clay,G,5,209920.0,126846.0,0.717005,R1,Raphael Collignon,0.717005
+Daniel Merida,Ben Shelton,86,5,696,4070,21.0,23.0,188.0,193.0,,5.0,Clay,G,5,,210097.0,0.15739676,R1,Ben Shelton,0.8426032
+Felix Auger-Aliassime,Daniel Altmaier,6,57,4050,930,25.0,27.0,193.0,188.0,4.0,,Clay,G,5,,127157.0,0.58799565,R1,Felix Auger-Aliassime,0.58799565
+Sebastian Baez,Roman Andres Burruchaga,64,68,860,833,25.0,24.0,170.0,183.0,,,Clay,G,5,202104.0,,0.5887822,R1,Sebastian Baez,0.5887822
+Luca Van Assche,Vilius Gaubas,100,133,599,464,22.0,21.0,178.0,178.0,,,Clay,G,5,,,0.4545829,R1,Vilius Gaubas,0.5454171
+Roberto Bautista Agut,Brandon Nakashima,117,35,542,1295,38.0,24.0,183.0,188.0,,31.0,Clay,G,5,105138.0,206909.0,0.25466108,R1,Brandon Nakashima,0.7453389
+Cameron Norrie,Adolfo Daniel Vallejo,24,71,1785,786,30.0,22.0,188.0,185.0,20.0,,Clay,G,5,111815.0,,0.6921599,R1,Cameron Norrie,0.6921599
+Marin Cilic,Moise Kouame,46,318,1010,165,37.0,17.0,198.0,191.0,,,Clay,G,5,105227.0,,0.6951985,R1,Marin Cilic,0.6951985
+Alejandro Tabilo,Kamil Majchrzak,36,78,1278,747,28.0,30.0,188.0,180.0,,,Clay,G,5,126214.0,111794.0,0.7351471,R1,Alejandro Tabilo,0.7351471
+Thomas Faurel,Valentin Vacherot,378,19,131,2103,20.0,27.0,,193.0,,16.0,Clay,G,5,,200473.0,0.15415746,R1,Valentin Vacherot,0.84584254
+Flavio Cobolli,Andrea Pellegrino,14,124,2340,507,24.0,29.0,183.0,185.0,10.0,,Clay,G,5,207925.0,,0.81459033,R1,Flavio Cobolli,0.81459033
+Yibing Wu,Marcos Giron,92,84,655,705,26.0,32.0,183.0,180.0,,,Clay,G,5,200059.0,106218.0,0.5508127,R1,Yibing Wu,0.5508127
+Facundo Diaz Acosta,Zhizhen Zhang,151,224,407,254,25.0,29.0,183.0,193.0,,,Clay,G,5,,111190.0,0.5759916,R1,Facundo Diaz Acosta,0.5759916
+Cristian Garin,Learner Tien,114,18,552,2180,29.0,20.0,185.0,180.0,,18.0,Clay,G,5,106426.0,210530.0,0.20161286,R1,Learner Tien,0.79838717
+Francisco Cerundolo,Botic van de Zandschulp,26,55,1570,935,27.0,30.0,185.0,191.0,25.0,,Clay,G,5,202103.0,,0.7244673,R1,Francisco Cerundolo,0.7244673
+Hugo Gaston,Gael Monfils,118,218,533,260,25.0,39.0,173.0,193.0,,,Clay,G,5,200384.0,104792.0,0.5449961,R1,Hugo Gaston,0.5449961
+Alexei Popyrin,Zachary Svajda,61,85,870,696,26.0,23.0,196.0,175.0,,,Clay,G,5,200615.0,208260.0,0.738674,R1,Alexei Popyrin,0.738674
+Adam Walton,Daniil Medvedev,97,8,614,3760,27.0,30.0,183.0,198.0,,6.0,Clay,G,5,200443.0,106421.0,0.11025765,R1,Daniil Medvedev,0.8897424
+Alex de Minaur,Toby Samuel,7,159,3855,378,27.0,23.0,183.0,191.0,8.0,,Clay,G,5,,,0.8779821,R1,Alex de Minaur,0.8779821
+Alexander Blockx,Coleman Wong,37,109,1238,574,21.0,21.0,191.0,191.0,,,Clay,G,5,210696.0,,0.7774927,R1,Alexander Blockx,0.7774927
+Mariano Navone,Jenson Brooksby,38,63,1215,865,25.0,25.0,178.0,188.0,,,Clay,G,5,208363.0,202385.0,0.7284407,R1,Mariano Navone,0.7284407
+Titouan Droguet,Jakub Mensik,107,27,578,1550,24.0,20.0,191.0,193.0,,26.0,Clay,G,5,,210150.0,0.20583153,R1,Jakub Mensik,0.7941685
+Tomas Martin Etcheverry,Nuno Borges,28,51,1510,970,26.0,29.0,196.0,185.0,23.0,,Clay,G,5,144869.0,132686.0,0.75162727,R1,Tomas Martin Etcheverry,0.75162727
+Miomir Kecmanovic,Fabian Marozsan,48,54,980,935,26.0,26.0,183.0,193.0,,,Clay,G,5,200175.0,206681.0,0.398497,R1,Fabian Marozsan,0.601503
+Emilio Nava,Camilo Ugo Carabelli,94,59,631,890,24.0,26.0,185.0,185.0,,,Clay,G,5,207182.0,200116.0,0.34604374,R1,Camilo Ugo Carabelli,0.6539563
+Ignacio Buse,Andrey Rublev,31,13,1412,2460,22.0,28.0,183.0,188.0,,11.0,Clay,G,5,,126094.0,0.33466697,R1,Andrey Rublev,0.66533303
+Casper Ruud,Roman Safiullin,16,141,2275,430,27.0,28.0,183.0,185.0,15.0,,Clay,G,5,134770.0,,0.89655244,R1,Casper Ruud,0.89655244
+Hamad Medjedovic,Yannick Hanfmann,58,53,894,936,22.0,34.0,188.0,193.0,,,Clay,G,5,209098.0,105870.0,0.5567796,R1,Hamad Medjedovic,0.5567796
+Lorenzo Sonego,Pierre-Hugues Herbert,70,220,815,259,31.0,35.0,191.0,188.0,,,Clay,G,5,132283.0,,0.697695,R1,Lorenzo Sonego,0.697695
+Rinky Hijikata,Tommy Paul,98,21,612,1945,25.0,29.0,178.0,185.0,,24.0,Clay,G,5,208014.0,126205.0,0.11660408,R1,Tommy Paul,0.8833959
+Joao Fonseca,Luka Pavlovic,30,241,1435,237,19.0,26.0,185.0,196.0,28.0,,Clay,G,5,211663.0,,0.8531067,R1,Joao Fonseca,0.8531067
+Michael Zheng,Dino Prizmic,146,72,414,785,22.0,20.0,188.0,188.0,,,Clay,G,5,210116.0,209976.0,0.25029978,R1,Dino Prizmic,0.7497002
+Hugo Dellien,Valentin Royer,144,74,421,773,32.0,24.0,180.0,188.0,,,Clay,G,5,,208316.0,0.32075658,R1,Valentin Royer,0.67924345
+Giovanni Mpetshi Perricard,Novak Djokovic,83,4,710,4460,22.0,39.0,203.0,188.0,,3.0,Clay,G,5,208659.0,104925.0,0.092063986,R1,Novak Djokovic,0.90793604
+Taylor Fritz,Nishesh Basavareddy,9,148,3720,409,28.0,21.0,196.0,180.0,7.0,,Clay,G,5,126203.0,210460.0,0.87434256,R1,Taylor Fritz,0.87434256
+Alexander Shevchenko,Alex Michelsen,88,42,689,1115,25.0,21.0,185.0,193.0,,,Clay,G,5,207686.0,210506.0,0.36659396,R1,Alex Michelsen,0.63340604
+James Duckworth,Gabriel Diallo,82,49,722,975,34.0,24.0,183.0,203.0,,,Clay,G,5,105902.0,209113.0,0.20899718,R1,Gabriel Diallo,0.7910028
+Aleksandar Kovacevic,Rafael Jodar,67,29,837,1461,27.0,19.0,183.0,,,27.0,Clay,G,5,206499.0,212588.0,0.13799925,R1,Rafael Jodar,0.86200076
+Alejandro Davidovich Fokina,Damir Dzumhur,23,87,1860,694,26.0,34.0,183.0,175.0,21.0,,Clay,G,5,200221.0,106000.0,0.81182957,R1,Alejandro Davidovich Fokina,0.81182957
+Pablo Llamas Ruiz,Thiago Agustin Tirante,122,60,515,887,23.0,25.0,188.0,185.0,,,Clay,G,5,,202058.0,0.2784731,R1,Thiago Agustin Tirante,0.72152686
+Thanasi Kokkinakis,Terence Atmane,854,52,29,938,30.0,24.0,193.0,193.0,,,Clay,G,5,,209279.0,0.15713897,R1,Terence Atmane,0.84286106
+Pablo Carreno Busta,Jiri Lehecka,89,12,685,2665,34.0,24.0,188.0,185.0,,12.0,Clay,G,5,105807.0,208103.0,0.16987896,R1,Jiri Lehecka,0.83012104
+Karen Khachanov,Arthur Gea,15,135,2320,460,30.0,21.0,198.0,180.0,13.0,,Clay,G,5,111575.0,210338.0,0.80120426,R1,Karen Khachanov,0.80120426
+Kyrian Jacquet,Marco Trungelliti,147,81,411,731,25.0,36.0,178.0,178.0,,,Clay,G,5,208021.0,,0.5035364,R1,Kyrian Jacquet,0.5035364
+Federico Cina,Reilly Opelka,238,76,242,758,19.0,28.0,185.0,211.0,,,Clay,G,5,,124187.0,0.31893373,R1,Reilly Opelka,0.6810663
+Stan Wawrinka,Jesper de Jong,113,106,553,580,41.0,25.0,183.0,180.0,,,Clay,G,5,104527.0,,0.30097285,R1,Jesper de Jong,0.6990272
+Ugo Humbert,Adrian Mannarino,32,45,1370,1037,27.0,37.0,188.0,180.0,32.0,,Clay,G,5,200005.0,105173.0,0.8200694,R1,Ugo Humbert,0.8200694
+Quentin Halys,Mattia Bellucci,90,73,678,777,29.0,24.0,191.0,175.0,,,Clay,G,5,111460.0,208233.0,0.44631508,R1,Mattia Bellucci,0.55368495
+Tomas Machac,Zizou Bergs,43,40,1080,1150,25.0,26.0,183.0,185.0,,,Clay,G,5,207830.0,200267.0,0.6811517,R1,Tomas Machac,0.6811517
+Benjamin Bonzi,Alexander Zverev,95,3,629,5705,29.0,29.0,183.0,198.0,,2.0,Clay,G,5,126127.0,100644.0,0.073812805,R1,Alexander Zverev,0.9261872
+Jannik Sinner,Juan Manuel Cerundolo,1,56,14750,935,24.0,24.0,191.0,183.0,1.0,,Clay,G,5,206173.0,207678.0,0.98803747,R2,Jannik Sinner,0.98803747
+Martin Landaluce,Corentin Moutet,69,34,827,1323,20.0,27.0,193.0,180.0,,30.0,Clay,G,5,,144895.0,0.34695497,R2,Corentin Moutet,0.65304506
+Arthur Rinderknech,Matteo Berrettini,25,105,1736,585,30.0,30.0,196.0,196.0,22.0,,Clay,G,5,126239.0,,0.48931125,R2,Matteo Berrettini,0.5106888
+Ethan Quinn,Luciano Darderi,50,17,974,2260,22.0,24.0,191.0,183.0,,14.0,Clay,G,5,210319.0,209260.0,0.15932174,R2,Luciano Darderi,0.8406783
+Alexander Bublik,Denis Shapovalov,10,39,3320,1170,28.0,27.0,196.0,185.0,9.0,,Clay,G,5,122330.0,133430.0,0.77148575,R2,Alexander Bublik,0.77148575
+Hubert Hurkacz,Frances Tiafoe,99,22,600,1905,29.0,28.0,196.0,188.0,,19.0,Clay,G,5,128034.0,126207.0,0.37490743,R2,Frances Tiafoe,0.62509257
+Tallon Griekspoor,Stefanos Tsitsipas,33,79,1340,740,29.0,27.0,188.0,193.0,29.0,,Clay,G,5,134868.0,126774.0,0.293944,R2,Stefanos Tsitsipas,0.706056
+Raphael Collignon,Ben Shelton,62,5,866,4070,24.0,23.0,191.0,193.0,,5.0,Clay,G,5,209920.0,210097.0,0.17790583,R2,Ben Shelton,0.8220942
+Felix Auger-Aliassime,Sebastian Baez,6,64,4050,860,25.0,25.0,193.0,170.0,4.0,,Clay,G,5,,202104.0,0.5201167,R2,Felix Auger-Aliassime,0.5201167
+Vilius Gaubas,Brandon Nakashima,133,35,464,1295,21.0,24.0,178.0,188.0,,31.0,Clay,G,5,,206909.0,0.3529081,R2,Brandon Nakashima,0.64709187
+Cameron Norrie,Marin Cilic,24,46,1785,1010,30.0,37.0,188.0,198.0,20.0,,Clay,G,5,111815.0,105227.0,0.71582717,R2,Cameron Norrie,0.71582717
+Alejandro Tabilo,Valentin Vacherot,36,19,1278,2103,28.0,27.0,188.0,193.0,,16.0,Clay,G,5,126214.0,200473.0,0.38109195,R2,Valentin Vacherot,0.61890805
+Flavio Cobolli,Yibing Wu,14,92,2340,655,24.0,26.0,183.0,183.0,10.0,,Clay,G,5,207925.0,200059.0,0.8223226,R2,Flavio Cobolli,0.8223226
+Facundo Diaz Acosta,Learner Tien,151,18,407,2180,25.0,20.0,183.0,180.0,,18.0,Clay,G,5,,210530.0,0.1832173,R2,Learner Tien,0.8167827
+Francisco Cerundolo,Hugo Gaston,26,118,1570,533,27.0,25.0,185.0,173.0,25.0,,Clay,G,5,202103.0,200384.0,0.87130016,R2,Francisco Cerundolo,0.87130016
+Alexei Popyrin,Daniil Medvedev,61,8,870,3760,26.0,30.0,196.0,198.0,,6.0,Clay,G,5,200615.0,106421.0,0.21092683,R2,Daniil Medvedev,0.78907317
+Alex de Minaur,Alexander Blockx,7,37,3855,1238,27.0,21.0,183.0,191.0,8.0,,Clay,G,5,,210696.0,0.6871229,R2,Alex de Minaur,0.6871229
+Mariano Navone,Jakub Mensik,38,27,1215,1550,25.0,20.0,178.0,193.0,,26.0,Clay,G,5,208363.0,210150.0,0.49385622,R2,Jakub Mensik,0.5061438
+Tomas Martin Etcheverry,Fabian Marozsan,28,54,1510,935,26.0,26.0,196.0,193.0,23.0,,Clay,G,5,144869.0,206681.0,0.6839905,R2,Tomas Martin Etcheverry,0.6839905
+Camilo Ugo Carabelli,Andrey Rublev,59,13,890,2460,26.0,28.0,185.0,188.0,,11.0,Clay,G,5,200116.0,126094.0,0.20980705,R2,Andrey Rublev,0.79019296
+Casper Ruud,Hamad Medjedovic,16,58,2275,894,27.0,22.0,183.0,188.0,15.0,,Clay,G,5,134770.0,209098.0,0.80685157,R2,Casper Ruud,0.80685157
+Lorenzo Sonego,Tommy Paul,70,21,815,1945,31.0,29.0,191.0,185.0,,24.0,Clay,G,5,132283.0,126205.0,0.12746589,R2,Tommy Paul,0.8725341
+Joao Fonseca,Dino Prizmic,30,72,1435,785,19.0,20.0,185.0,188.0,28.0,,Clay,G,5,211663.0,209976.0,0.6954911,R2,Joao Fonseca,0.6954911
+Valentin Royer,Novak Djokovic,74,4,773,4460,24.0,39.0,188.0,188.0,,3.0,Clay,G,5,208316.0,104925.0,0.06709356,R2,Novak Djokovic,0.93290645
+Taylor Fritz,Alex Michelsen,9,42,3720,1115,28.0,21.0,196.0,193.0,7.0,,Clay,G,5,126203.0,210506.0,0.735415,R2,Taylor Fritz,0.735415
+Gabriel Diallo,Rafael Jodar,49,29,975,1461,24.0,19.0,203.0,,,27.0,Clay,G,5,209113.0,212588.0,0.19678669,R2,Rafael Jodar,0.8032133
+Alejandro Davidovich Fokina,Thiago Agustin Tirante,23,60,1860,887,26.0,25.0,183.0,185.0,21.0,,Clay,G,5,200221.0,202058.0,0.6080393,R2,Alejandro Davidovich Fokina,0.6080393
+Terence Atmane,Jiri Lehecka,52,12,938,2665,24.0,24.0,193.0,185.0,,12.0,Clay,G,5,209279.0,208103.0,0.17767023,R2,Jiri Lehecka,0.82232976
+Karen Khachanov,Kyrian Jacquet,15,147,2320,411,30.0,25.0,198.0,178.0,13.0,,Clay,G,5,111575.0,208021.0,0.84450406,R2,Karen Khachanov,0.84450406
+Reilly Opelka,Jesper de Jong,76,106,758,580,28.0,25.0,211.0,180.0,,,Clay,G,5,124187.0,,0.50449044,R2,Reilly Opelka,0.50449044
+Ugo Humbert,Mattia Bellucci,32,73,1370,777,27.0,24.0,188.0,175.0,32.0,,Clay,G,5,200005.0,208233.0,0.5873342,R2,Ugo Humbert,0.5873342
+Tomas Machac,Alexander Zverev,43,3,1080,5705,25.0,29.0,183.0,198.0,,2.0,Clay,G,5,207830.0,100644.0,0.14758627,R2,Alexander Zverev,0.8524137
+Jannik Sinner,Corentin Moutet,1,34,14750,1323,24.0,27.0,191.0,180.0,1.0,30.0,Clay,G,5,206173.0,144895.0,0.98019534,R3,Jannik Sinner,0.98019534
+Matteo Berrettini,Luciano Darderi,105,17,585,2260,30.0,24.0,196.0,183.0,,14.0,Clay,G,5,,209260.0,0.22430582,R3,Luciano Darderi,0.7756942
+Alexander Bublik,Frances Tiafoe,10,22,3320,1905,28.0,28.0,196.0,188.0,9.0,19.0,Clay,G,5,122330.0,126207.0,0.612212,R3,Alexander Bublik,0.612212
+Stefanos Tsitsipas,Ben Shelton,79,5,740,4070,27.0,23.0,193.0,193.0,,5.0,Clay,G,5,126774.0,210097.0,0.3080488,R3,Ben Shelton,0.69195116
+Felix Auger-Aliassime,Brandon Nakashima,6,35,4050,1295,25.0,24.0,193.0,188.0,4.0,31.0,Clay,G,5,,206909.0,0.5558176,R3,Felix Auger-Aliassime,0.5558176
+Cameron Norrie,Valentin Vacherot,24,19,1785,2103,30.0,27.0,188.0,193.0,20.0,16.0,Clay,G,5,111815.0,200473.0,0.5209028,R3,Cameron Norrie,0.5209028
+Flavio Cobolli,Learner Tien,14,18,2340,2180,24.0,20.0,183.0,180.0,10.0,18.0,Clay,G,5,207925.0,210530.0,0.5201074,R3,Flavio Cobolli,0.5201074
+Francisco Cerundolo,Daniil Medvedev,26,8,1570,3760,27.0,30.0,185.0,198.0,25.0,6.0,Clay,G,5,202103.0,106421.0,0.29663742,R3,Daniil Medvedev,0.7033626
+Alex de Minaur,Jakub Mensik,7,27,3855,1550,27.0,20.0,183.0,193.0,8.0,26.0,Clay,G,5,,210150.0,0.65446955,R3,Alex de Minaur,0.65446955
+Tomas Martin Etcheverry,Andrey Rublev,28,13,1510,2460,26.0,28.0,196.0,188.0,23.0,11.0,Clay,G,5,144869.0,126094.0,0.3191134,R3,Andrey Rublev,0.6808866
+Casper Ruud,Tommy Paul,16,21,2275,1945,27.0,29.0,183.0,185.0,15.0,24.0,Clay,G,5,134770.0,126205.0,0.6183429,R3,Casper Ruud,0.6183429
+Joao Fonseca,Novak Djokovic,30,4,1435,4460,19.0,39.0,185.0,188.0,28.0,3.0,Clay,G,5,211663.0,104925.0,0.21500652,R3,Novak Djokovic,0.78499347
+Taylor Fritz,Rafael Jodar,9,29,3720,1461,28.0,19.0,196.0,,7.0,27.0,Clay,G,5,126203.0,212588.0,0.4920925,R3,Rafael Jodar,0.5079075
+Alejandro Davidovich Fokina,Jiri Lehecka,23,12,1860,2665,26.0,24.0,183.0,185.0,21.0,12.0,Clay,G,5,200221.0,208103.0,0.32280874,R3,Jiri Lehecka,0.67719126
+Karen Khachanov,Reilly Opelka,15,76,2320,758,30.0,28.0,198.0,211.0,13.0,,Clay,G,5,111575.0,124187.0,0.74512047,R3,Karen Khachanov,0.74512047
+Ugo Humbert,Alexander Zverev,32,3,1370,5705,27.0,29.0,188.0,198.0,32.0,2.0,Clay,G,5,200005.0,100644.0,0.100498505,R3,Alexander Zverev,0.8995015
+Jannik Sinner,Luciano Darderi,1,17,14750,2260,24.0,24.0,191.0,183.0,1.0,14.0,Clay,G,5,206173.0,209260.0,0.95967925,R4,Jannik Sinner,0.95967925
+Alexander Bublik,Ben Shelton,10,5,3320,4070,28.0,23.0,196.0,193.0,9.0,5.0,Clay,G,5,122330.0,210097.0,0.40238866,R4,Ben Shelton,0.5976113
+Felix Auger-Aliassime,Cameron Norrie,6,24,4050,1785,25.0,30.0,193.0,188.0,4.0,20.0,Clay,G,5,,111815.0,0.32542565,R4,Cameron Norrie,0.6745744
+Flavio Cobolli,Daniil Medvedev,14,8,2340,3760,24.0,30.0,183.0,198.0,10.0,6.0,Clay,G,5,207925.0,106421.0,0.3630916,R4,Daniil Medvedev,0.6369084
+Alex de Minaur,Andrey Rublev,7,13,3855,2460,27.0,28.0,183.0,188.0,8.0,11.0,Clay,G,5,,126094.0,0.5675314,R4,Alex de Minaur,0.5675314
+Casper Ruud,Novak Djokovic,16,4,2275,4460,27.0,39.0,183.0,188.0,15.0,3.0,Clay,G,5,134770.0,104925.0,0.36342436,R4,Novak Djokovic,0.63657564
+Rafael Jodar,Jiri Lehecka,29,12,1461,2665,19.0,24.0,,185.0,27.0,12.0,Clay,G,5,212588.0,208103.0,0.3989484,R4,Jiri Lehecka,0.60105157
+Karen Khachanov,Alexander Zverev,15,3,2320,5705,30.0,29.0,198.0,198.0,13.0,2.0,Clay,G,5,111575.0,100644.0,0.15155841,R4,Alexander Zverev,0.8484416
+Jannik Sinner,Ben Shelton,1,5,14750,4070,24.0,23.0,191.0,193.0,1.0,5.0,Clay,G,5,206173.0,210097.0,0.95449275,R5,Jannik Sinner,0.95449275
+Cameron Norrie,Daniil Medvedev,24,8,1785,3760,30.0,30.0,188.0,198.0,20.0,6.0,Clay,G,5,111815.0,106421.0,0.25836167,R5,Daniil Medvedev,0.7416383
+Alex de Minaur,Novak Djokovic,7,4,3855,4460,27.0,39.0,183.0,188.0,8.0,3.0,Clay,G,5,,104925.0,0.3054738,R5,Novak Djokovic,0.6945262
+Jiri Lehecka,Alexander Zverev,12,3,2665,5705,24.0,29.0,185.0,198.0,12.0,2.0,Clay,G,5,208103.0,100644.0,0.24105024,R5,Alexander Zverev,0.75894976
+Jannik Sinner,Daniil Medvedev,1,8,14750,3760,24.0,30.0,191.0,198.0,1.0,6.0,Clay,G,5,206173.0,106421.0,0.9379639,R6,Jannik Sinner,0.9379639
+Novak Djokovic,Alexander Zverev,4,3,4460,5705,39.0,29.0,188.0,198.0,3.0,2.0,Clay,G,5,104925.0,100644.0,0.44866323,R6,Alexander Zverev,0.55133677
+Jannik Sinner,Alexander Zverev,1,3,14750,5705,24.0,29.0,191.0,198.0,1.0,2.0,Clay,G,5,206173.0,100644.0,0.9005205,R7,Jannik Sinner,0.9005205

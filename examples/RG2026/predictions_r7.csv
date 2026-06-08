@@ -1,0 +1,2 @@
+A_name,B_name,A_rank,B_rank,A_rank_points,B_rank_points,A_age,B_age,A_height,B_height,A_seed,B_seed,surface,tourney_level,best_of,A_id,B_id,pA_wins,pred_winner,pred_winner_prob,A_elo_global,B_elo_global,A_elo_surface,B_elo_surface,actual_winner
+Flavio Cobolli,Alexander Zverev,14,3,2340,5705,24.0,29.0,183.0,198.0,10.0,2.0,Clay,G,5,207925.0,100644.0,0.22066382,Alexander Zverev,0.7793362,1750.1755817384878,1979.9319797714347,1715.392817591918,1874.320480044244,Alexander Zverev

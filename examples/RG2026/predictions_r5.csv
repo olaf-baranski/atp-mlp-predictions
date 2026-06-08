@@ -1,0 +1,5 @@
+A_name,B_name,A_rank,B_rank,A_rank_points,B_rank_points,A_age,B_age,A_height,B_height,A_seed,B_seed,surface,tourney_level,best_of,A_id,B_id,pA_wins,pred_winner,pred_winner_prob,A_elo_global,B_elo_global,A_elo_surface,B_elo_surface,actual_winner
+Matteo Berrettini,Matteo Arnaldi,105,104,585,586,30.0,25.0,196.0,185.0,,,Clay,G,5,,208286.0,0.55361915,Matteo Berrettini,0.55361915,1697.7157256181958,1590.3626413465868,1707.2343455709167,1623.048955108281,Matteo Arnaldi 
+Felix Auger-Aliassime,Flavio Cobolli,6,14,4050,2340,25.0,24.0,193.0,183.0,4.0,10.0,Clay,G,5,,207925.0,0.21709454,Flavio Cobolli,0.78290546,1500.0,1750.1755817384878,1500.0,1715.392817591918,Flavio Cobolli
+Jakub Mensik,Joao Fonseca,27,30,1550,1435,20.0,19.0,193.0,185.0,26.0,28.0,Clay,G,5,210150.0,211663.0,0.41999707,Joao Fonseca,0.5800029,1769.8361945998945,1787.389898827317,1609.7510571869068,1621.776230280541,Jakub Mensik
+Rafael Jodar,Alexander Zverev,29,3,1461,5705,19.0,29.0,,198.0,27.0,2.0,Clay,G,5,212588.0,100644.0,0.2075989,Alexander Zverev,0.7924011,1771.2296117703652,1979.9319797714347,1707.1549028577465,1874.320480044244,Alexander Zverev

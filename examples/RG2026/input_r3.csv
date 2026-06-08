@@ -1,0 +1,17 @@
+A_name,B_name,A_rank,B_rank,A_rank_points,B_rank_points,A_age,B_age,A_height,B_height,A_seed,B_seed,surface,tourney_level,best_of,A_id,B_id
+Juan Manuel Cerundolo,Martin Landaluce,56,69,935,827,24.0,20.0,183.0,193.0,,,Clay,G,5,207678.0,
+Matteo Berrettini,Francisco Comesana,105,102,585,598,30.0,25.0,196.0,178.0,,,Clay,G,5,,207681.0
+Jaime Faria,Frances Tiafoe,115,22,548,1905,22.0,28.0,188.0,188.0,,19.0,Clay,G,5,210262.0,126207.0
+Matteo Arnaldi,Raphael Collignon,104,62,586,866,25.0,24.0,185.0,191.0,,,Clay,G,5,208286.0,209920.0
+Felix Auger-Aliassime,Brandon Nakashima,6,35,4050,1295,25.0,24.0,193.0,188.0,4.0,31.0,Clay,G,5,,206909.0
+Moise Kouame,Alejandro Tabilo,318,36,165,1278,17.0,28.0,191.0,188.0,,,Clay,G,5,,126214.0
+Flavio Cobolli,Learner Tien,14,18,2340,2180,24.0,20.0,183.0,180.0,10.0,18.0,Clay,G,5,207925.0,210530.0
+Francisco Cerundolo,Zachary Svajda,26,85,1570,696,27.0,23.0,185.0,175.0,25.0,,Clay,G,5,202103.0,208260.0
+Alex de Minaur,Jakub Mensik,7,27,3855,1550,27.0,20.0,183.0,193.0,8.0,26.0,Clay,G,5,,210150.0
+Nuno Borges,Andrey Rublev,51,13,970,2460,29.0,28.0,185.0,188.0,,11.0,Clay,G,5,132686.0,126094.0
+Casper Ruud,Tommy Paul,16,21,2275,1945,27.0,29.0,183.0,185.0,15.0,24.0,Clay,G,5,134770.0,126205.0
+Joao Fonseca,Novak Djokovic,30,4,1435,4460,19.0,39.0,185.0,188.0,28.0,3.0,Clay,G,5,211663.0,104925.0
+Alex Michelsen,Rafael Jodar,42,29,1115,1461,21.0,19.0,193.0,,,27.0,Clay,G,5,210506.0,212588.0
+Thiago Agustin Tirante,Pablo Carreno Busta,60,89,887,685,25.0,34.0,185.0,188.0,,,Clay,G,5,202058.0,105807.0
+Karen Khachanov,Jesper de Jong,15,106,2320,580,30.0,25.0,198.0,180.0,13.0,,Clay,G,5,111575.0,
+Quentin Halys,Alexander Zverev,90,3,678,5705,29.0,29.0,191.0,198.0,,2.0,Clay,G,5,111460.0,100644.0
