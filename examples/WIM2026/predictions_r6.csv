@@ -1,0 +1,3 @@
+A_name,B_name,A_rank,B_rank,A_rank_points,B_rank_points,A_age,B_age,A_height,B_height,A_seed,B_seed,surface,tourney_level,best_of,A_id,B_id,pA_wins,pred_winner,pred_winner_prob,A_elo_global,B_elo_global,A_elo_surface,B_elo_surface,actual_winner
+Jannik Sinner,Novak Djokovic,1,8,13450,3760,24.0,39.0,191,188,1.0,7.0,Grass,G,5,206173.0,104925.0,0.84194165,Jannik Sinner,0.84194165,2296.917061839477,2037.356571912992,1789.5332689720378,1973.0557165952243,Jannik Sinner
+Arthur Fery,Alexander Zverev,114,3,547,7190,23.0,29.0,175,198,,2.0,Grass,G,5,209259.0,100644.0,0.09279101,Alexander Zverev,0.907209,1510.0175123629228,1979.9319797714347,1471.6797784053942,1684.0766867229174,Alexander Zverev
