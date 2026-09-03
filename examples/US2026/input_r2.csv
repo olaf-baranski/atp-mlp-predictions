@@ -1,0 +1,33 @@
+A_name,B_name,A_rank,B_rank,A_rank_points,B_rank_points,A_age,B_age,A_height,B_height,A_seed,B_seed,surface,tourney_level,best_of,A_id,B_id
+Alexander Zverev,Quentin Halys,3.0,90.0,5805.0,650.0,29.0,29.4,198.0,191.0,1.0,,Hard,G,5,100644.0,111460.0
+Alexei Popyrin,Alejandro Tabilo,61.0,35.0,870.0,1248.0,26.7,28.9,196.0,188.0,,25.0,Hard,G,5,200615.0,126214.0
+Luciano Darderi,Dalibor Svrcina,16.0,116.0,2260.0,547.0,24.2,23.5,183.0,178.0,21.0,,Hard,G,5,209260.0,207494.0
+Dane Sweeny,Lorenzo Musetti,182.0,10.0,325.0,3415.0,24.9,24.1,170.0,185.0,,13.0,Hard,G,5,208013.0,207518.0
+Yunchaokete Bu,Michael Zheng,139.0,145.0,449.0,414.0,24.0,22.0,185.0,188.0,,,Hard,G,5,207352.0,210116.0
+Zachary Svajda,Arthur Gea,90.0,140.0,666.0,436.0,23.4,21.3,175.0,180.0,,,Hard,G,5,208260.0,210338.0
+Zizou Bergs,Jesper de Jong,39.0,102.0,1140.0,610.0,26.9,25.9,185.0,180.0,31.0,,Hard,G,5,200267.0,207411.0
+Botic van de Zandschulp,Alex de Minaur,54.0,9.0,898.0,3665.0,30.5,27.2,191.0,183.0,,6.0,Hard,G,5,122298.0,200282.0
+Felix Auger-Aliassime,Karen Khachanov,5.0,15.0,4060.0,2320.0,25.7,29.9,193.0,198.0,3.0,,Hard,G,5,200000.0,111575.0
+Benjamin Bonzi,Ignacio Buse,104.0,57.0,616.0,893.0,29.8,22.1,183.0,185.0,,32.0,Hard,G,5,126127.0,209860.0
+Jakub Mensik,Jurij Rodionov,28.0,170.0,1510.0,350.0,20.7,26.7,193.0,191.0,17.0,,Hard,G,5,210150.0,200514.0
+Gael Monfils,Learner Tien,200.0,20.0,290.0,1940.0,39.6,20.4,193.0,180.0,,14.0,Hard,G,5,104792.0,210530.0
+Taylor Fritz,Mattia Bellucci,8.0,80.0,3720.0,737.0,28.5,24.9,196.0,175.0,9.0,,Hard,G,5,126203.0,208233.0
+Jan-Lennard Struff,Francisco Cerundolo,79.0,27.0,739.0,1570.0,36.0,27.7,193.0,185.0,,24.0,Hard,G,5,105526.0,202103.0
+Alexander Blockx,Marco Trungelliti,36.0,81.0,1200.0,731.0,21.0,36.2,191.0,178.0,28.0,,Hard,G,5,210696.0,105477.0
+Tristan Schoolkate,Flavio Cobolli,118.0,12.0,547.0,2790.0,25.0,24.0,183.0,183.0,,5.0,Hard,G,5,209262.0,207925.0
+Daniil Medvedev,Sebastian Gorzny,9.0,,3460.0,,30.2,,198.0,,7.0,,Hard,G,5,106421.0,
+Jaume Munar,Arthur Rinderknech,39.0,24.0,1105.0,1711.0,29.0,30.8,183.0,196.0,,26.0,Hard,G,5,144719.0,126239.0
+Valentin Vacherot,Kamil Majchrzak,17.0,77.0,2168.0,747.0,27.4,30.3,193.0,180.0,22.0,,Hard,G,5,200473.0,111794.0
+Rei Sakamoto,Frances Tiafoe,164.0,21.0,366.0,1905.0,19.7,28.3,193.0,188.0,,11.0,Hard,G,5,210536.0,126207.0
+Brandon Nakashima,Alex Michelsen,32.0,41.0,1295.0,1075.0,24.7,21.7,188.0,193.0,16.0,,Hard,G,5,206909.0,210506.0
+Daniel Merida,Andrey Rublev,86.0,14.0,696.0,2590.0,21.6,28.5,188.0,188.0,,23.0,Hard,G,5,210017.0,126094.0
+Tomas Martin Etcheverry,Jacob Fearnley,25.0,123.0,1630.0,523.0,26.8,24.8,196.0,183.0,27.0,,Hard,G,5,144869.0,207985.0
+Matteo Berrettini,Mariano Navone,100.0,42.0,625.0,1066.0,30.0,25.2,196.0,178.0,,,Hard,G,5,126610.0,208363.0
+Ben Shelton,Hubert Hurkacz,6.0,53.0,4030.0,930.0,23.6,29.2,193.0,196.0,8.0,,Hard,G,5,210097.0,128034.0
+Denis Shapovalov,Luca Van Assche,37.0,109.0,1170.0,601.0,27.0,21.8,185.0,178.0,,,Hard,G,5,133430.0,209414.0
+Jiri Lehecka,Toby Samuel,13.0,,2715.0,,24.4,,185.0,,18.0,,Hard,G,5,208103.0,
+Lloyd Harris,Stefanos Tsitsipas,,82.0,,725.0,,27.7,,193.0,,,Hard,G,5,,126774.0
+Alexander Bublik,Adrian Mannarino,10.0,44.0,3230.0,1037.0,28.9,37.8,196.0,180.0,15.0,,Hard,G,5,122330.0,105173.0
+Dino Prizmic,Tommy Paul,79.0,26.0,740.0,1625.0,20.7,29.0,188.0,185.0,,20.0,Hard,G,5,209976.0,126205.0
+James Duckworth,Yibing Wu,83.0,118.0,722.0,559.0,34.3,26.4,183.0,183.0,,,Hard,G,5,105902.0,200059.0
+Jaime Faria,Carlos Alcaraz,136.0,2.0,459.0,13240.0,22.7,22.9,188.0,183.0,,2.0,Hard,G,5,210262.0,207989.0
