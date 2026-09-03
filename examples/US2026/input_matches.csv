@@ -1,0 +1,65 @@
+A_name,B_name,A_rank,B_rank,A_rank_points,B_rank_points,A_age,B_age,A_height,B_height,A_seed,B_seed,surface,tourney_level,best_of,A_id,B_id
+Alexander Zverev,Lorenzo Sonego,3,69,5805,815,29.0,31.0,198,191,1,,Hard,G,5,100644,132283
+Quentin Halys,Facundo Diaz Acosta,90,285,650,182,29.4,25.1,191,183,,,Hard,G,5,111460,207680
+Grigor Dimitrov,Alexei Popyrin,137,61,455,870,34.9,26.7,191,196,,,Hard,G,5,105777,200615
+Yannick Hanfmann,Alejandro Tabilo,55,35,899,1248,34.5,28.9,193,188,,25,Hard,G,5,105870,126214
+Luciano Darderi,Harry Wendelken,16,,2260,,24.2,,183,,21,,Hard,G,5,209260,
+Dalibor Svrcina,Valentin Royer,116,73,547,773,23.5,24.9,178,188,,,Hard,G,5,207494,208316
+Dane Sweeny,Corentin Moutet,182,32,325,1323,24.9,27.0,170,180,,,Hard,G,5,208013,144895
+Arthur Fery,Lorenzo Musetti,174,10,342,3415,23.6,24.1,175,185,,13,Hard,G,5,209259,207518
+Rafael Jodar,Yunchaokete Bu,34,139,1273,449,19.6,24.0,,185,12,,Hard,G,5,212588,207352
+Fabian Marozsan,Michael Zheng,49,145,975,414,26.5,22.0,193,188,,,Hard,G,5,206681,210116
+Zachary Svajda,Daniel Altmaier,90,65,666,843,23.4,27.6,175,188,,,Hard,G,5,208260,127157
+Juan Manuel Cerundolo,Arthur Gea,72,140,776,436,24.4,21.3,183,180,,,Hard,G,5,207678,210338
+Zizou Bergs,Carlos Taberner,39,99,1140,630,26.9,28.4,185,183,31,,Hard,G,5,200267,126535
+Jesper de Jong,Francesco Passaro,102,144,610,431,25.9,25.1,180,180,,,Hard,G,5,207411,208859
+Jan Choinski,Botic van de Zandschulp,120,54,534,898,29.8,30.5,196,191,,,Hard,G,5,123828,122298
+Andrea Guerrieri,Alex de Minaur,,9,,3665,,27.2,,183,,6,Hard,G,5,,200282
+Felix Auger-Aliassime,Rinky Hijikata,5,102,4060,599,25.7,25.2,193,178,3,,Hard,G,5,200000,208014
+Roman Andres Burruchaga,Karen Khachanov,66,15,833,2320,24.3,29.9,183,198,,,Hard,G,5,208882,111575
+Alex Molcan,Benjamin Bonzi,166,104,376,616,28.3,29.8,178,183,,,Hard,G,5,144684,126127
+Marcos Giron,Ignacio Buse,84,57,705,893,32.8,22.1,180,185,,32,Hard,G,5,106218,209860
+Jakub Mensik,Shintaro Mochizuki,28,117,1510,525,20.7,22.7,193,175,17,,Hard,G,5,210150,208278
+Jurij Rodionov,Giovanni Mpetshi Perricard,170,80,350,735,26.7,22.8,191,203,,,Hard,G,5,200514,208659
+Adolfo Daniel Vallejo,Gael Monfils,96,200,640,290,21.9,39.6,183,193,,,Hard,G,5,209226,104792
+Nuno Borges,Learner Tien,52,20,950,1940,29.2,20.4,185,180,,14,Hard,G,5,132686,210530
+Taylor Fritz,Darwin Blanch,8,272,3720,193,28.5,18.4,196,185,9,,Hard,G,5,126203,210464
+Mattia Bellucci,Zsombor Piros,80,176,737,341,24.9,26.3,175,180,,,Hard,G,5,208233,200436
+Camilo Ugo Carabelli,Jan-Lennard Struff,68,79,825,739,26.9,36.0,185,193,,,Hard,G,5,200116,105526
+Filip Misolic,Francisco Cerundolo,84,27,725,1570,24.4,27.7,180,185,,24,Hard,G,5,209209,202103
+Alexander Blockx,Tomas Barrios Vera,36,119,1200,551,21.0,28.2,191,191,28,,Hard,G,5,210696,144642
+Juncheng Shang,Marco Trungelliti,262,81,205,731,21.0,36.2,180,178,,,Hard,G,5,209992,105477
+Nishesh Basavareddy,Tristan Schoolkate,156,118,396,547,21.0,25.0,180,183,,,Hard,G,5,210460,209262
+Francisco Comesana,Flavio Cobolli,114,12,570,2790,25.6,24.0,178,183,,5,Hard,G,5,207681,207925
+Daniil Medvedev,Hugo Gaston,9,120,3460,527,30.2,25.6,198,173,7,,Hard,G,5,106421,200384
+Sebastian Gorzny,Raphael Collignon,,64,,854,,24.3,,191,,,Hard,G,5,,209920
+Jaume Munar,Terence Atmane,39,51,1105,938,29.0,24.3,183,193,,,Hard,G,5,144719,209279
+Sho Shimabukuro,Arthur Rinderknech,113,24,554,1711,28.5,30.8,180,196,,26,Hard,G,5,200647,126239
+Valentin Vacherot,Aleksandar Kovacevic,17,94,2168,649,27.4,27.7,193,183,22,,Hard,G,5,200473,206499
+Kamil Majchrzak,Hamad Medjedovic,77,67,747,804,30.3,22.7,180,188,,,Hard,G,5,111794,209098
+Aleksandar Vukic,Rei Sakamoto,99,164,626,366,30.0,19.7,188,193,,,Hard,G,5,126846,210536
+Martin Damm,Frances Tiafoe,126,21,499,1905,22.5,28.3,203,188,,11,Hard,G,5,102093,126207
+Brandon Nakashima,Sebastian Baez,32,62,1295,860,24.7,25.3,188,170,16,,Hard,G,5,206909,202104
+Alex Michelsen,Federico Cina,41,225,1075,255,21.7,19.0,193,183,,,Hard,G,5,210506,210748
+Daniel Merida,Marton Fucsovics,86,57,696,884,21.6,34.2,188,188,,,Hard,G,5,210017,105916
+Otto Virtanen,Andrey Rublev,130,14,487,2590,24.8,28.5,193,188,,23,Hard,G,5,202261,126094
+Tomas Martin Etcheverry,Vit Kopriva,25,63,1630,856,26.8,28.9,196,178,27,,Hard,G,5,144869,200240
+Martin Landaluce,Jacob Fearnley,94,123,639,523,20.3,24.8,191,183,,,Hard,G,5,212021,207985
+Matteo Berrettini,Stan Wawrinka,100,119,625,528,30.0,41.1,196,183,,,Hard,G,5,126610,104527
+Mariano Navone,Novak Djokovic,42,4,1066,4700,25.2,38.9,178,188,,4,Hard,G,5,208363,104925
+Ben Shelton,Tallon Griekspoor,6,31,4030,1360,23.6,29.8,193,188,8,,Hard,G,5,210097,134868
+Damir Dzumhur,Hubert Hurkacz,87,53,674,930,33.9,29.2,175,196,,,Hard,G,5,106000,128034
+Miomir Kecmanovic,Denis Shapovalov,70,37,795,1170,26.6,27.0,183,185,,,Hard,G,5,200175,133430
+Luca Van Assche,Cameron Norrie,109,22,601,1888,21.8,30.7,178,188,,29,Hard,G,5,209414,111815
+Jiri Lehecka,Pablo Carreno Busta,13,91,2715,663,24.4,34.8,185,188,18,,Hard,G,5,208103,105807
+Toby Samuel,Tomas Machac,,41,,1100,,25.5,,183,,,Hard,G,5,,207830
+Lloyd Harris,Jack Kennedy,,,,,,,,,,,Hard,G,5,,
+Stefanos Tsitsipas,Arthur Fils,82,17,725,2130,27.7,21.8,193,185,,10,Hard,G,5,126774,209950
+Alexander Bublik,J.J. Wolf,10,,3230,,28.9,,196,,15,,Hard,G,5,122330,
+Thiago Agustin Tirante,Adrian Mannarino,58,44,887,1037,25.1,37.8,185,180,,,Hard,G,5,202058,105173
+Dino Prizmic,Aleksandr Shevchenko,79,85,740,698,20.7,25.4,188,185,,,Hard,G,5,209976,207686
+Coleman Wong,Tommy Paul,124,26,503,1625,21.8,29.0,191,185,,20,Hard,G,5,209409,126205
+Matteo Arnaldi,James Duckworth,106,83,596,722,25.1,34.3,185,183,30,,Hard,G,5,208286,105902
+Yibing Wu,Adam Walton,118,117,559,547,26.4,27.0,183,183,,,Hard,G,5,200059,200443
+Jaime Faria,Jenson Brooksby,136,60,459,872,22.7,25.5,188,188,,,Hard,G,5,210262,202385
+Roman Safiullin,Carlos Alcaraz,,2,,13240,,22.9,,183,,2,Hard,G,5,,207989
