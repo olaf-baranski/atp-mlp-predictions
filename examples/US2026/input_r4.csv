@@ -1,0 +1,9 @@
+A_name,B_name,A_rank,B_rank,A_rank_points,B_rank_points,A_age,B_age,A_height,B_height,A_seed,B_seed,surface,tourney_level,best_of,A_id,B_id
+Alexander Zverev,Luciano Darderi,3.0,16.0,5805.0,2260.0,29.0,24.2,198.0,183.0,1.0,21.0,Hard,G,5,100644.0,209260.0
+Arthur Gea,Botic van de Zandschulp,140.0,54.0,436.0,898.0,21.3,30.5,180.0,191.0,,,Hard,G,5,210338.0,122298.0
+Karen Khachanov,Learner Tien,15.0,20.0,2320.0,1940.0,29.9,20.4,198.0,180.0,,14.0,Hard,G,5,111575.0,210530.0
+Francisco Cerundolo,Alexander Blockx,27.0,36.0,1570.0,1200.0,27.7,21.0,185.0,191.0,24.0,28.0,Hard,G,5,202103.0,210696.0
+Daniil Medvedev,Frances Tiafoe,9.0,21.0,3460.0,1905.0,30.2,28.3,198.0,188.0,7.0,11.0,Hard,G,5,106421.0,126207.0
+Alex Michelsen,Tomas Martin Etcheverry,41.0,25.0,1075.0,1630.0,21.7,26.8,193.0,196.0,,27.0,Hard,G,5,210506.0,144869.0
+Ben Shelton,Stefanos Tsitsipas,6.0,82.0,4030.0,725.0,23.6,27.7,193.0,193.0,8.0,,Hard,G,5,210097.0,126774.0
+Tommy Paul,Carlos Alcaraz,26.0,2.0,1625.0,13240.0,29.0,22.9,185.0,183.0,20.0,2.0,Hard,G,5,126205.0,207989.0
