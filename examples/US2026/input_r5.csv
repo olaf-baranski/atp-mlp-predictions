@@ -1,0 +1,5 @@
+A_name,B_name,A_rank,B_rank,A_rank_points,B_rank_points,A_age,B_age,A_height,B_height,A_seed,B_seed,surface,tourney_level,best_of,A_id,B_id
+Alexander Zverev,Botic van de Zandschulp,3.0,54.0,5805.0,898.0,29.0,30.5,198.0,191.0,1.0,,Hard,G,5,100644.0,122298.0
+Karen Khachanov,Alexander Blockx,15.0,36.0,2320.0,1200.0,29.9,21.0,198.0,191.0,,28.0,Hard,G,5,111575.0,210696.0
+Frances Tiafoe,Alex Michelsen,21.0,41.0,1905.0,1075.0,28.3,21.7,188.0,193.0,11.0,,Hard,G,5,126207.0,210506.0
+Ben Shelton,Carlos Alcaraz,6.0,2.0,4030.0,13240.0,23.6,22.9,193.0,183.0,8.0,2.0,Hard,G,5,210097.0,207989.0
