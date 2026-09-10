@@ -1,0 +1,3 @@
+A_name,B_name,A_rank,B_rank,A_rank_points,B_rank_points,A_age,B_age,A_height,B_height,A_seed,B_seed,surface,tourney_level,best_of,A_id,B_id,pA_wins,pred_winner,pred_winner_prob,A_elo_global,B_elo_global,A_elo_surface,B_elo_surface,actual_winner
+Alexander Zverev,Karen Khachanov,3.0,15.0,5805.0,2320.0,29.0,29.9,198.0,198.0,1.0,,Hard,G,5,100644.0,111575.0,0.86449176,Alexander Zverev,0.86449176,1979.9319797714347,1695.0208018438825,1945.022016177045,1659.8390784150336,
+Frances Tiafoe,Ben Shelton,21.0,6.0,1905.0,4030.0,28.3,23.6,188.0,193.0,11.0,8.0,Hard,G,5,126207.0,210097.0,0.30071592,Ben Shelton,0.6992841,1754.2073179494423,1813.4494531624523,1756.8883893819084,1826.8842333856956,
