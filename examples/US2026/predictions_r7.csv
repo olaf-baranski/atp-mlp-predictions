@@ -1,0 +1,2 @@
+A_name,B_name,A_rank,B_rank,A_rank_points,B_rank_points,A_age,B_age,A_height,B_height,A_seed,B_seed,surface,tourney_level,best_of,A_id,B_id,pA_wins,pred_winner,pred_winner_prob,A_elo_global,B_elo_global,A_elo_surface,B_elo_surface
+Alexander Zverev,Ben Shelton,3.0,6.0,5805.0,4030.0,29.0,23.6,198.0,193.0,1.0,8.0,Hard,G,5,100644.0,210097.0,0.6827855,Alexander Zverev,0.6827855,1979.9319797714347,1813.4494531624523,1945.022016177045,1826.8842333856956
